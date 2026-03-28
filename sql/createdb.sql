@@ -1,0 +1,5 @@
+CREATE DATABASE aurora_db;
+
+SHOW DATABASES;
+
+exit;
